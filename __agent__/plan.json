@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Inspect the existing app and project instructions",
+      "status": "done"
+    },
+    {
+      "title": "Define the design system, data models, and shared layout",
+      "status": "in-progress"
+    },
+    {
+      "title": "Build the premium responsive pages and interactions",
+      "status": "pending"
+    },
+    {
+      "title": "Add SEO, accessibility, and integration-point behavior",
+      "status": "pending"
+    },
+    {
+      "title": "Run checks and fix any issues",
+      "status": "pending"
+    }
+  ],
+  "updated_at": "2026-10-01T17:37:32.328Z",
+  "session_id": "01a0f88a-48a2-7485-989a-c4d63d4a531e"
+}
